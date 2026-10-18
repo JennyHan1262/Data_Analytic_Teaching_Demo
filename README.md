@@ -7,7 +7,7 @@ Ph.D. Syracuse University
 M.S.A Binghamton University
 
 ### Technical Skills
-** Languages:** Python, SQL, SAS
+**Languages:** Python, SQL, SAS
 
 ### Connect with me
 linkedin link
